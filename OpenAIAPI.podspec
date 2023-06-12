@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name         			= "OpenAIAPI"
-	s.version      			= "2.2"
+	s.version      			= "2.3"
 	s.ios.deployment_target = '12.0'
 	s.summary      			= 'OpenAIAPI'
 	s.homepage         		= 'https://OpenAIAPI.com'
