@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name         			= "OpenAISwift"
-	s.version      			= "2.0.1"
+	s.version      			= "2.1"
 	s.ios.deployment_target = '12.0'
 	s.summary      			= 'OpenAISwift'
 	s.homepage         		= 'https://OpenAISwift.com'
